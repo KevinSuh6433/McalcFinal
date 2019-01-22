@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mcalc</string>
+    <string name="p">P</string>
+    <string name="a">A</string>
+    <string name="i">I</string>
+    <string name="button">Button</string>
+</resources>
